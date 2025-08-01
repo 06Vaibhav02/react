@@ -14,77 +14,77 @@ function App() {
         <div className="flex flex-wrap justify-center gap-3 shadow-xl bg-white px-4 py-3 rounded-3xl">
           <button
             onClick={() => setColor("red")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white shadow-xl"
             style={{ backgroundColor: "red" }}
           >
             RED
           </button>
           <button
             onClick={() => setColor("green")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white shadow-xl"
             style={{ backgroundColor: "green" }}
           >
             GREEN
           </button>
           <button
             onClick={() => setColor("blue")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white shadow-xl"
             style={{ backgroundColor: "blue" }}
           >
             BLUE
           </button>
           <button
             onClick={() => setColor("olive")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white shadow-xl"
             style={{ backgroundColor: "olive" }}
           >
             OLIVE
           </button>
           <button
             onClick={() => setColor("gray")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white shadow-xl"
             style={{ backgroundColor: "gray" }}
           >
             GRAY
           </button>
           <button
             onClick={() => setColor("yellow")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black shadow-xl"
             style={{ backgroundColor: "yellow" }}
           >
             YELLOW
           </button>
           <button
             onClick={() => setColor("pink")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black shadow-xl"
             style={{ backgroundColor: "pink" }}
           >
             PINK
           </button>
           <button
             onClick={() => setColor("purple")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black shadow-xl"
             style={{ backgroundColor: "purple" }}
           >
             PURPLE
           </button>
           <button
             onClick={() => setColor("lavender")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black shadow-xl"
             style={{ backgroundColor: "lavender" }}
           >
             LAVANDER
           </button>
           <button
             onClick={() => setColor("white")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-black shadow-xl"
             style={{ backgroundColor: "white" }}
           >
             WHITE
           </button>
           <button
             onClick={() => setColor("black")}
-            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white"
+            className="outline-none px-4 py-1 rounded-full cursor-pointer text-white shadow-xl"
             style={{ backgroundColor: "black" }}
           >
             BLACK
